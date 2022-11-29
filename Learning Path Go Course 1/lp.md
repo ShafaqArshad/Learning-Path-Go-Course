@@ -7,4 +7,4 @@ isNew: true
 isAvailable: true
 scenarioCount: 1
 scenarios:
-  - Go Course Scenario 2
+  - Go Course Scenario Sa 2
